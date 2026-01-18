@@ -17,4 +17,11 @@ Architecture: Edge-AI (Local processing for privacy)
 1).Clonethe repository:git clone https://github.com/Anish-114/Aadhaar-Secure-Liveness.
 2).Install dependencies:pip install -r requirements.txt
 3).Run the application:python app.py
+## 🔮 Future Scope
+To make **Aadhaar-Secure** more robust, we plan to implement:
+* **Deepfake Detection:** Identifying AI-generated faces in real-time.
+* **Heart Rate Monitoring:** Confirming human presence through rPPG technology.
+* **Offline Optimization:** Ensuring the model runs smoothly on low-end mobile devices in rural areas.
+
+  
 ## 👨‍💻 AuthorAnish Kanaujiya B.Tech Computer Science Engineering (AI & ML)
